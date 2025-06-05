@@ -1,0 +1,14 @@
+C:\Users\grautecnico\ProjetoMax\bin\Debug\net8.0\ProjetoMax.exe
+C:\Users\grautecnico\ProjetoMax\bin\Debug\net8.0\ProjetoMax.deps.json
+C:\Users\grautecnico\ProjetoMax\bin\Debug\net8.0\ProjetoMax.runtimeconfig.json
+C:\Users\grautecnico\ProjetoMax\bin\Debug\net8.0\ProjetoMax.dll
+C:\Users\grautecnico\ProjetoMax\bin\Debug\net8.0\ProjetoMax.pdb
+C:\Users\grautecnico\ProjetoMax\obj\Debug\net8.0\ProjetoMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grautecnico\ProjetoMax\obj\Debug\net8.0\ProjetoMax.AssemblyInfoInputs.cache
+C:\Users\grautecnico\ProjetoMax\obj\Debug\net8.0\ProjetoMax.AssemblyInfo.cs
+C:\Users\grautecnico\ProjetoMax\obj\Debug\net8.0\ProjetoMax.csproj.CoreCompileInputs.cache
+C:\Users\grautecnico\ProjetoMax\obj\Debug\net8.0\ProjetoMax.dll
+C:\Users\grautecnico\ProjetoMax\obj\Debug\net8.0\refint\ProjetoMax.dll
+C:\Users\grautecnico\ProjetoMax\obj\Debug\net8.0\ProjetoMax.pdb
+C:\Users\grautecnico\ProjetoMax\obj\Debug\net8.0\ProjetoMax.genruntimeconfig.cache
+C:\Users\grautecnico\ProjetoMax\obj\Debug\net8.0\ref\ProjetoMax.dll
